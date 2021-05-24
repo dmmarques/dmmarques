@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Diogo Miguel ALves Marques
+- 👀 I’m interested in learning and building projects 
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on C++ and Python
+- 📫 How to reach me ... [Linked In](https://www.linkedin.com/in/dmamarques/)
