@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Diogo Miguel ALves Marques
+- 👋 Hi, I’m Diogo Miguel Alves Marques
 - 👀 I’m interested in learning, building projects, travelling and (some) videogames  
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++ and Python
+- 🌱 I’m currently learning Java and JS
+- 💞️ I’m looking to collaborate on fullstack development projects using Spring Boot and React JS
 - 📫 How to reach me ... [Linked In](https://www.linkedin.com/in/dmamarques/)
 
 📈 My Github stats <br />
